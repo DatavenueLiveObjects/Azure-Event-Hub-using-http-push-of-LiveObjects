@@ -1,0 +1,2 @@
+# Azure-Event-Hub-using-http-push-of-LiveObjects
+how to route your Live Objects data stream to an Azure Event Hub. This will enable you to connect the powerful set of features from Live Objects (connectivity, Device Management, decoding, simple event processing) to the rest of your ecosystem on the Azure platform. The key point on Live Objects side is to configure an action policy that will route that data stream to the adequate Azure Event Hub endpoint through Http Push.
